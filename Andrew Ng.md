@@ -34,7 +34,11 @@ Startup Studio: Deals with issues in making ML algos work in real life and get i
 - There's a huge difference between something that works on the Jupyter Notebook on your laptop vs something that runs in the prodcution deployment setting in a factory. Ex: Robustness and Generalization (difference in lighting). Solution: Domain adaptation, transfer learning. Conclusion: There's more work to be done.
 - Redesign tasks, planning for the change management, make sure the software you write is consistent with the new workflow, how to deal with the maintenance or DevOps or MLOps  
 ## AGI:  
-- 
+- AI Ethics, Problems to  be addressed today: Bias, Wealth Inequality (need to make sure the wealth is fairly shared), Education  
+- Regrets: The process of discovery, we keep finding out things that seem so obvious in hindsight. But, it always takes so much longer in reality.  
+- Moments of happiness, fulfillment: Nova Ng, his daughter; helping others achieve their dreams; make humanity more powerful as a whole.  
+
+
 
 
 
