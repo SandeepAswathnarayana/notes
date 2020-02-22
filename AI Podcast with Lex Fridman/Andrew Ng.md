@@ -40,4 +40,4 @@
 ## AGI, Closing Remarks:  
 - **AI Ethics, Problems to  be addressed today:** Bias, Wealth Inequality (need to make sure the wealth is fairly shared), Education  
 - **On his Regrets:** The process of discovery is such that we keep finding out things that seem so obvious in hindsight. But, it always takes so much longer in reality.  
-- **Moments of happiness, fulfillment:** Nova Ng, his daughter; helping others achieve their dreams; make humanity more powerful as a whole.  
+- **On his Moments of happiness, fulfillment:** Nova Ng, his daughter; helping others achieve their dreams; make humanity more powerful as a whole.  
