@@ -15,9 +15,9 @@
 ## Unsupervised Learning: a beautiful idea!  
 **Motive or Idea:** To generate infinite labeled data.  
 **Examples:**  
-- (1) Self-supervised Learning: take lots of unlabeled images off the internet --> rotate each image by a random multiple of 90 degrees --> train a supervised NN to predict its original orientation --> now you can generate an infinite amount of labeled data. Conclusion: Taking unlabeled data and making up labeled datasets, training a large NN on these tasks. You can take the hidden layer representations and transfer it to different tasks very powerfully.  
-- (2) Word Embeddings: Take a sentence --> delete a word --> predict the missing word.  
-- (3) Jigsaw: Cut an image into 3x3 grids --> jumble the pieces --> have the NN predict which of the 9 factorial possible permutations the image came from. Companies working on this: OpenAI, Facebook, Google Brain, Deep Mind.  
+1. Self-supervised Learning: take lots of unlabeled images off the internet --> rotate each image by a random multiple of 90 degrees --> train a supervised NN to predict its original orientation --> now you can generate an infinite amount of labeled data. Conclusion: Taking unlabeled data and making up labeled datasets, training a large NN on these tasks. You can take the hidden layer representations and transfer it to different tasks very powerfully.  
+2. Word Embeddings: Take a sentence --> delete a word --> predict the missing word.  
+3. Jigsaw: Cut an image into 3x3 grids --> jumble the pieces --> have the NN predict which of the 9 factorial possible permutations the image came from. Companies working on this: OpenAI, Facebook, Google Brain, Deep Mind.  
 
 ## deeplearning.ai:  
 **Motive:** to know the differences between various optimization algos, what to do if the algo overfits, how to you tell if it's overfitting, when and when not to collect more data, learn how to debug ML algos (change the architecture, get more data, try different optimization algos, etc).  
