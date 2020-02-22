@@ -28,7 +28,17 @@ Generate Infinite labaled data: Examples:
 - Motivation: build AI fund to systematically create new startups from scratch, go after this rich space of opportunites in AI to get the projects done.  
 Startup Studio: Deals with issues in making ML algos work in real life and get it ot production, how to validate, get the specialized domain knowledge, help with key decisions, provide with the support structure and optimal ecosystem  
 ## Landing AI:  
+- Help transform companies outside the software/internet sector: manufacturing, healthcare, agriculture, logistics & transportation, etc. (current scenario: fewer people, more opportunites)  
+- [AI Transformation Playbook](https://landing.ai/ai-transformation-playbook/): long-term journey that companies should take, bu the first step is to start small. Doing so would instill faith in peers and other teams about your ideas. Ripple effect: Google Speech Recognition System --> Gogle Maps --> Google Ads.  
+## Concrete challenges faced by companies that Landing AI is currently working on:  
+- There's a huge difference between something that works on the Jupyter Notebook on your laptop vs something that runs in the prodcution deployment setting in a factory. Ex: Robustness and Generalization (difference in lighting). Solution: Domain adaptation, transfer learning. Conclusion: There's more work to be done.
+- Redesign tasks, planning for the change management, make sure the software you write is consistent with the new workflow, how to deal with the maintenance or DevOps or MLOps  
+## AGI:  
 - 
+
+
+
+
 
 
 
