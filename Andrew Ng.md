@@ -1,5 +1,5 @@
 # Andrew Ng: AI Podcast with Lex Fridman (Feb 20, 2020):  
-*Note: This is a rough draft and overview of the podcast including my key takeaways. For the ease of typing while simultaneously listening to the podcast, I have only included phrases and key points in the notes.*  
+*Note: This is a rough draft and overview of the podcast which includes my key takeaways. For the ease of typing while simultaneously listening to the podcast, I have only included phrases and key points in the notes.*  
 
 ## Early days of developing Coursera and MOOCs:  
 - Recorded videos for coursera between 10 PM and 3 AM most of the days  
