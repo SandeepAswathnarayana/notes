@@ -7,7 +7,7 @@
 - **Motivation behind Coursera:** Build a website where multiple people could be logged in to the computer at the same time, getting credit (from the computer) for individual work and for anything people do as a group.  
 - "I'd love to see the owners of mom-and-pop stores with a very little code customize their TV display for their *This Week's Special*"  
 - **Reason behind Andrew Ng's love for whiteboard as a teaching tool:** math & equations, build up a complex concept one piece at a time, enhance understandability.  
-- **[Autonomous Helicopter]**(http://heli.stanford.edu/): Reminiscing the time when Andrew Ng and his team (Pieter Abbeel, Adam Coates, Morgan Quigley, and others) worked on one of the pioneering real-time applications of Reinforcement Learning.  
+- **[Autonomous Helicopter](http://heli.stanford.edu/):** Reminiscing the time when Andrew Ng and his team (Pieter Abbeel, Adam Coates, Morgan Quigley, and others) worked on one of the pioneering real-time applications of Reinforcement Learning.  
 - **Motivation for Unsupervised Learning:** (Rephrasing Geoffrey Hinton's words) "Our (human) brain has about 10^14 synapses and we only live for about 10^9 seconds. So we have a lot more parameters than data. This motivates the idea that we must do a lot of unsupervised learning since the perceptual input (including proprioception) is the only place we can get 10^5 dimensions of constraint per second."  
 - **Conviction to pitch an idea at Google Brain (Sebastian Thrun):** Adam Cole's idea that the Importance of Scaling the models is way bigger than what's possible on the CPUs at Stanford.  
 - Which of these two result in better performance - Larger Datasets or Better Architectures?: Both (depends on the problem)  
@@ -20,10 +20,8 @@
 3. Jigsaw: Cut an image into 3x3 grids --> jumble the pieces --> have the NN predict which of the 9 factorial possible permutations the image came from. Companies working on this: OpenAI, Facebook, Google Brain, Deep Mind.  
 
 ## deeplearning.ai:  
-**Motive:** to know the differences between various optimization algos, what to do if the algo overfits, how to you tell if it's overfitting, when and when not to collect more data, learn how to debug ML algos (change the architecture, get more data, try different optimization algos, etc).  
-
-## Career in Deep Learning:  
-- **Key Inputs:** Begin with Coursework, work on projects, read blogs posts, cultivate an habit of reading at least 2 research papers per week, start small with a hobby project which eventually leads to bigger accomplishments. *Consider watching Andrew Ng's [Stanford CS230 Lecture](https://www.youtube.com/watch?v=733m6qBH-jI) for advice on career and how to read a research paper.*  
+- **Motive:** to know the differences between various optimization algos, what to do if the algo overfits, how to you tell if it's overfitting, when and when not to collect more data, learn how to debug ML algos (change the architecture, get more data, try different optimization algos, etc).  
+- **Key inputs to start a career in Deep Learning:** Begin with Coursework, work on projects, read blogs posts, cultivate an habit of reading at least 2 research papers per week, start small with a hobby project which eventually leads to bigger accomplishments. *Consider watching Andrew Ng's [Stanford CS230 Lecture](https://www.youtube.com/watch?v=733m6qBH-jI) for advice on career and how to read a research paper.*  
 - **Should one consider pursuing a PhD?** Yes. If someone aspires to be a Professor. But what's more pivotal in both academics and companies: the PEOPLE you are ineracting with on a daily basis. For job search and career advice, consider watching [Andrew Ng on Building a Career in Machine Learning](https://www.youtube.com/watch?v=4kiHsIaK9_w)  
 
 ## AI Fund:  
@@ -33,7 +31,7 @@
 
 ## Landing AI:  
 - **Motive:** Help transform companies outside the software/internet sector where there is more scope of addressing the problems, but fewer people working on them (manufacturing, healthcare, agriculture, logistics & transportation, etc.)  
-- **[AI Transformation Playbook]**(https://landing.ai/ai-transformation-playbook/): long-term journey that companies should take, but the first step is to start small. Doing so would instill faith in peers and other teams about your ideas. Andrew Ng and his teams' first few AI projects that started small: Google Speech Recognition System --> Google Maps --> Google Ads.  
+- **[AI Transformation Playbook](https://landing.ai/ai-transformation-playbook/):** long-term journey that companies should take, but the first step is to start small. Doing so would instill faith in peers and other teams about your ideas. Andrew Ng and his teams' first few AI projects that started small: Google Speech Recognition System --> Google Maps --> Google Ads.  
 
 ## Concrete Challenges faced by Companies and How Landing AI is currently working on addressing them:  
 - "There's a huge difference between something that works on the Jupyter Notebook on your laptop vs something that runs in the production deployment setting in a factory." Ex: Robustness and Generalization (say, difference in lighting/atmosphere while training images). Existing solution: Domain adaptation, transfer learning, etc. But, there's more work to be done.  
