@@ -14,10 +14,10 @@
 
 ## Unsupervised Learning: a beautiful idea!  
 **Motive or Idea:** To generate infinite labeled data.  
-Examples:  
-(1) Self-supervised Learning: take lots of unlabeled images off the internet --> rotate each image by a random multiple of 90 degrees --> train a supervised NN to predict its original orientation --> now you can generate an infinite amount of labeled data. Conclusion: Taking unlabeled data and making up labeled datasets, training a large NN on these tasks. You can take the hidden layer representations and transfer it to different tasks very powerfully.  
-(2) Word Embeddings: Take a sentence --> delete a word --> predict the missing word.  
-(3) Jigsaw: Cut an image into 3x3 grids --> jumble the pieces --> have the NN predict which of the 9 factorial possible permutations the image came from. Companies working on this: OpenAI, Facebook, Google Brain, Deep Mind.  
+**Examples:**  
+- (1) Self-supervised Learning: take lots of unlabeled images off the internet --> rotate each image by a random multiple of 90 degrees --> train a supervised NN to predict its original orientation --> now you can generate an infinite amount of labeled data. Conclusion: Taking unlabeled data and making up labeled datasets, training a large NN on these tasks. You can take the hidden layer representations and transfer it to different tasks very powerfully.  
+- (2) Word Embeddings: Take a sentence --> delete a word --> predict the missing word.  
+- (3) Jigsaw: Cut an image into 3x3 grids --> jumble the pieces --> have the NN predict which of the 9 factorial possible permutations the image came from. Companies working on this: OpenAI, Facebook, Google Brain, Deep Mind.  
 
 ## deeplearning.ai:  
 **Motive:** to know the differences between various optimization algos, what to do if the algo overfits, how to you tell if it's overfitting, when and when not to collect more data, learn how to debug ML algos (change the architecture, get more data, try different optimization algos, etc).  
@@ -27,7 +27,7 @@ Examples:
 - **Should one consider pursuing a PhD?** Yes. If someone aspires to be a Professor. But what's more pivotal in both academics and companies: the PEOPLE you are ineracting with on a daily basis. For job search and career advice, consider watching [Andrew Ng on Building a Career in Machine Learning](https://www.youtube.com/watch?v=4kiHsIaK9_w)  
 
 ## AI Fund:  
-- "Startups should be *outcome-driven* and very *customer-obsessed*."  
+- **On addressing the long-term objective of startups:** "Startups should be *outcome-driven* and very *customer-obsessed*."  
 - **Motivation behind AI Fund:** build AI fund to systematically create new startups from scratch, go after the rich space of opportunities in AI to get the projects done.  
 - **What AI Fund does:** deals with the issues in making ML algos work in real life and deploy them into production, how to validate, get the specialized domain knowledge, help with key decisions, provide with the support structure and optimal ecosystem.  
 
@@ -39,9 +39,9 @@ Examples:
 - "There's a huge difference between something that works on the Jupyter Notebook on your laptop vs something that runs in the production deployment setting in a factory." Ex: Robustness and Generalization (say, difference in lighting/atmosphere while training images). Existing solution: Domain adaptation, transfer learning, etc. But, there's more work to be done.  
 - Redesign tasks, plan for the change management, make sure the software you write is consistent with the new workflow, how to deal with the maintenance or DevOps or MLOps.  
 
-## AGI:  
+## AGI, Closing Remarks:  
 - **AI Ethics, Problems to  be addressed today:** Bias, Wealth Inequality (need to make sure the wealth is fairly shared), Education  
-- Regrets: The process of discovery, we keep finding out things that seem so obvious in hindsight. But, it always takes so much longer in reality.  
+- **On his Regrets:** The process of discovery is such that we keep finding out things that seem so obvious in hindsight. But, it always takes so much longer in reality.  
 - **Moments of happiness, fulfillment:** Nova Ng, his daughter; helping others achieve their dreams; make humanity more powerful as a whole.  
 
 
