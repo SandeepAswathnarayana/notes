@@ -26,6 +26,13 @@ Generate Infinite labaled data: Examples:
 ## AI Fund:  
 - Startups should be outcome driven and very customer obsessed  
 - Motivation: build AI fund to systematically create new startups from scratch, go after this rich space of opportunites in AI to get the projects done.  
+Startup Studio: Deals with issues in making ML algos work in real life and get it ot production, how to validate, get the specialized domain knowledge, help with key decisions, provide with the support structure and optimal ecosystem  
+## Landing AI:  
+- 
+
+
+
+
 
 
 
