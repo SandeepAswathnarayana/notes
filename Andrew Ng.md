@@ -1,4 +1,4 @@
-# Andrew Ng: AI Podcast with Lex Fridman (Feb 20, 2020):  
+# Andrew Ng: Deep Learning, Education, and Real-World AI | AI Podcast #73 with Lex Fridman (Feb 20, 2020):  
 *Note: This is a rough draft and overview of the podcast which includes my key takeaways. For the ease of typing while simultaneously listening to the podcast, I have only included phrases and key points in the notes.*  
 
 ## Early days of developing Coursera and MOOCs:  
