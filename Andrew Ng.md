@@ -1,11 +1,11 @@
-# Andrew Ng: Deep Learning, Education, and Real-World AI | AI Podcast #73 with Lex Fridman (Feb 20, 2020):  
+# Andrew Y. Ng: Deep Learning, Education, and Real-World AI | AI Podcast #73 with Lex Fridman (Feb 20, 2020):  
 *Note: This is a rough draft, a brief overview of the podcast which mostly includes my key takeaways. For the ease of typing while simultaneously listening to the podcast, I have only managed to included phrases and key points in the notes.*  
 
 ## Early days of building Coursera and MOOCs:  
 - Andrew Ng recalls the days when he used to record videos for coursera at his home and friend's place (mostly between 10 PM and 3 AM)  
 - **Motive behind spending more time taeching the fundamentals:** A good understanding of the foundations and basics for those who want to build a long-term career in the field, try to consistently make decisions based on these principles.  
 - **Motivation behind Coursera:** Build a website where multiple people could be logged in to the computer at the same time, getting credit (from the computer) for individual work and for anything people do as a group.  
-- "I'd love to see the owners of mom-and-pop stores with a very little code customize their TV display for their special this week"  
+- "I'd love to see the owners of mom-and-pop stores with a very little code customize their TV display for their *This Week's Special*"  
 - **Reason behind Andrew Ng's love for whiteboard as a teaching tool:** math & equations, build up a complex concept one piece at a time, enhance understandability.  
 - **[Autonomous Helicopter]**(http://heli.stanford.edu/): Reminiscing the time when Andrew Ng and his team (Pieter Abbeel, Adam Coates, Morgan Quigley, and others) worked on one of the pioneering real-time applications of Reinforcement Learning.  
 - **Motivation for Unsupervised Learning:** (Rephrasing Geoffrey Hinton's words) "Our (human) brain has about 10^14 synapses and we only live for about 10^9 seconds. So we have a lot more parameters than data. This motivates the idea that we must do a lot of unsupervised learning since the perceptual input (including proprioception) is the only place we can get 10^5 dimensions of constraint per second."  
@@ -27,7 +27,7 @@ Examples:
 - **Should one consider pursuing a PhD?** Yes. If someone aspires to be a Professor. But what's more pivotal in both academics and companies: the PEOPLE you are ineracting with on a daily basis. For job search and career advice, consider watching [Andrew Ng on Building a Career in Machine Learning](https://www.youtube.com/watch?v=4kiHsIaK9_w)  
 
 ## AI Fund:  
-- Startups should be outcome driven and very customer obsessed.  
+- "Startups should be *outcome-driven* and very *customer-obsessed*."  
 - **Motivation behind AI Fund:** build AI fund to systematically create new startups from scratch, go after the rich space of opportunities in AI to get the projects done.  
 - **What AI Fund does:** deals with the issues in making ML algos work in real life and deploy them into production, how to validate, get the specialized domain knowledge, help with key decisions, provide with the support structure and optimal ecosystem.  
 
