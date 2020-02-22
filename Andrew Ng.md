@@ -1,5 +1,5 @@
 # Andrew Ng: Deep Learning, Education, and Real-World AI | AI Podcast #73 with Lex Fridman (Feb 20, 2020):  
-*Note: This is a rough draft and overview of the podcast which includes my key takeaways. For the ease of typing while simultaneously listening to the podcast, I have only included phrases and key points in the notes.*  
+*Note: This is a rough draft, a brief overview of the podcast which mostly includes my key takeaways. For the ease of typing while simultaneously listening to the podcast, I have only managed to included phrases and key points in the notes.*  
 
 ## Early days of building Coursera and MOOCs:  
 - Andrew Ng recalls the days when he used to record videos for coursera at his home and friend's place (mostly between 10 PM and 3 AM)  
@@ -12,9 +12,6 @@
 - **Conviction to pitch an idea at Google Brain (Sebastian Thrun):** Adam Cole's idea that the Importance of Scaling the models is way bigger than what's possible on the CPUs at Stanford.  
 - Which of these two result in better performance - Larger Datasets or Better Architectures?: Both (depends on the problem)  
 
-## deeplearning.ai:  
-**Motive:** to know the differences between various optimization algos, what to do if the algo overfits, how to you tell if it's overfitting, when and when not to collect more data, learn how to debug ML algos (change the architecture, get more data, try different optimization algos, etc).  
-
 ## Unsupervised Learning: a beautiful idea!  
 **Motive or Idea:** To generate infinite labeled data.  
 Examples:  
@@ -22,18 +19,21 @@ Examples:
 (2) Word Embeddings: Take a sentence --> delete a word --> predict the missing word.  
 (3) Jigsaw: Cut an image into 3x3 grids --> jumble the pieces --> have the NN predict which of the 9 factorial possible permutations the image came from. Companies working on this: OpenAI, Facebook, Google Brain, Deep Mind.  
 
+## deeplearning.ai:  
+**Motive:** to know the differences between various optimization algos, what to do if the algo overfits, how to you tell if it's overfitting, when and when not to collect more data, learn how to debug ML algos (change the architecture, get more data, try different optimization algos, etc).  
+
 ## Career in Deep Learning:  
-- Begin with Coursework, work on projects, read blogs posts, cultivate an habit of reading at least 2 research papers per week, start small with a hobby project which eventually leads to bigger accomplishments. *Consider watching Andrew Ng's [Stanford CS230 Lecture](https://www.youtube.com/watch?v=733m6qBH-jI) for advice on career and how to read a research paper.*  
+- **Key Inputs:** Begin with Coursework, work on projects, read blogs posts, cultivate an habit of reading at least 2 research papers per week, start small with a hobby project which eventually leads to bigger accomplishments. *Consider watching Andrew Ng's [Stanford CS230 Lecture](https://www.youtube.com/watch?v=733m6qBH-jI) for advice on career and how to read a research paper.*  
 - **Should one consider pursuing a PhD?** Yes. If someone aspires to be a Professor. But what's more pivotal in both academics and companies: the PEOPLE you are ineracting with on a daily basis. For job search and career advice, consider watching [Andrew Ng on Building a Career in Machine Learning](https://www.youtube.com/watch?v=4kiHsIaK9_w)  
 
 ## AI Fund:  
 - Startups should be outcome driven and very customer obsessed.  
 - **Motivation behind AI Fund:** build AI fund to systematically create new startups from scratch, go after the rich space of opportunities in AI to get the projects done.  
-Startup Studio: Deals with issues in making ML algos work in real life and deploy them into production, how to validate, get the specialized domain knowledge, help with key decisions, provide with the support structure and optimal ecosystem.  
+- **What AI Fund does:** deals with the issues in making ML algos work in real life and deploy them into production, how to validate, get the specialized domain knowledge, help with key decisions, provide with the support structure and optimal ecosystem.  
 
 ## Landing AI:  
 - **Motive:** Help transform companies outside the software/internet sector where there is more scope of addressing the problems, but fewer people working on them (manufacturing, healthcare, agriculture, logistics & transportation, etc.)  
-- [AI Transformation Playbook](https://landing.ai/ai-transformation-playbook/): long-term journey that companies should take, but the first step is to start small. Doing so would instill faith in peers and other teams about your ideas. Andrew Ng and his teams' first few AI projects that started small: Google Speech Recognition System --> Google Maps --> Google Ads.  
+- **[AI Transformation Playbook]**(https://landing.ai/ai-transformation-playbook/): long-term journey that companies should take, but the first step is to start small. Doing so would instill faith in peers and other teams about your ideas. Andrew Ng and his teams' first few AI projects that started small: Google Speech Recognition System --> Google Maps --> Google Ads.  
 
 ## Concrete Challenges faced by Companies and How Landing AI is currently working on addressing them:  
 - "There's a huge difference between something that works on the Jupyter Notebook on your laptop vs something that runs in the production deployment setting in a factory." Ex: Robustness and Generalization (say, difference in lighting/atmosphere while training images). Existing solution: Domain adaptation, transfer learning, etc. But, there's more work to be done.  
