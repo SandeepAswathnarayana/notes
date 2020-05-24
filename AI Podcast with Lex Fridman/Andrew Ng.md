@@ -1,5 +1,5 @@
 # Andrew Y. Ng: Deep Learning, Education, and Real-World AI | AI Podcast #73 with Lex Fridman (Feb 20, 2020):  
-*Note: This is a rough draft, a brief overview of the podcast which mostly includes my key takeaways. For the ease of typing while simultaneously listening to the podcast, I have only managed to included phrases and key points in the notes.*  
+*Note: This is a rough draft, a brief overview of the podcast which mostly includes my key takeaways. For the ease of typing while simultaneously listening to the podcast, I have managed only to include phrases and key points in the notes.*  
 
 ## Early days of building Coursera and MOOCs:  
 - Andrew Ng recalls the days when he used to record videos for coursera at his home and friend's place (mostly between 10 PM and 3 AM)  
