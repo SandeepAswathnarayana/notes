@@ -11,4 +11,5 @@
 
 [Four Ways Data Science Goes Wrong and How Test-Driven Data Analysis Can Help](https://www.predictiveanalyticsworld.com/machinelearningtimes/four-ways-data-science-goes-wrong-and-how-test-driven-data-analysis-can-help/6947/)  
 
-[]()  
+[Ned Batchelder: Getting Started Testing - PyCon 2014](https://www.youtube.com/watch?v=FxSsnHeWQBY)  
+[Slide Deck](https://speakerdeck.com/pycon2014/getting-started-testing-by-ned-batchelder)  
