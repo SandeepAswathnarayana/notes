@@ -17,3 +17,11 @@
 [Integration Testing](https://www.fullstackpython.com/integration-testing.html)  
 
 [pytest](https://docs.pytest.org/en/latest/getting-started.html)  
+
+[Data Science and Test Driven Development](https://www.linkedin.com/pulse/data-science-test-driven-development-sam-savage/)  
+
+[Test-Driven Development for Data Science](https://engineering.pivotal.io/post/test-driven-development-for-data-science/)  
+
+[Test Driven Development is essential for good data science. Here’s why.](https://medium.com/uk-hydrographic-office/test-driven-development-is-essential-for-good-data-science-heres-why-db7975a03a44)  
+
+[Writing Tests](https://docs.python-guide.org/writing/tests/)  
