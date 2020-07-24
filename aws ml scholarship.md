@@ -15,3 +15,5 @@
 [Slide Deck](https://speakerdeck.com/pycon2014/getting-started-testing-by-ned-batchelder)  
 
 [Integration Testing](https://www.fullstackpython.com/integration-testing.html)  
+
+[pytest](https://docs.pytest.org/en/latest/getting-started.html)  
