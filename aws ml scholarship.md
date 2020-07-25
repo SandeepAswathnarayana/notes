@@ -72,6 +72,14 @@ Wikipedia articles on [Gaussian Distribution](https://en.wikipedia.org/wiki/Norm
 
 [Primer on Python Decorators](https://realpython.com/primer-on-python-decorators/)  
 
+[Launch a Linux Virtual Machine](https://aws.amazon.com/getting-started/hands-on/launch-a-virtual-machine/)  
+
+[Is macOS essentially built on top of Linux?](https://www.quora.com/Is-macOS-essentially-built-on-top-of-Linux)  
+
+
+
+
+
 
 
 
