@@ -76,7 +76,9 @@ Wikipedia articles on [Gaussian Distribution](https://en.wikipedia.org/wiki/Norm
 
 [Is macOS essentially built on top of Linux?](https://www.quora.com/Is-macOS-essentially-built-on-top-of-Linux)  
 
+[pip - The Python Package Installer](https://pip.pypa.io/en/stable/)  
 
+[]()  
 
 
 
