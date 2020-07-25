@@ -40,4 +40,12 @@
 
 [numpydoc docstring guide](https://numpydoc.readthedocs.io/en/latest/format.html)  
 
+## README Examples  
+
+[Bootstrap](https://github.com/twbs/bootstrap)  
+
+[Scikit-learn](https://github.com/scikit-learn/scikit-learn) 
+
+[Stackoverflow](https://github.com/jjrunner/stackoverflow)  
+
 
