@@ -64,6 +64,13 @@ This free course, [Intro to Descriptive Statistics](https://www.udacity.com/cour
 
 Wikipedia articles on [Gaussian Distribution](https://en.wikipedia.org/wiki/Normal_distribution) and [Binomial Distribution](https://en.wikipedia.org/wiki/Binomial_distribution)  
 
+[Python's Instance, Class, and Static Methods Demystified](https://realpython.com/instance-class-and-static-methods-demystified/)  
+
+[Class and Instance Attributes](https://www.python-course.eu/python3_class_and_instance_attributes.php)  
+
+[Multiple Inheritance, Mixins](https://easyaspython.com/mixins-for-fun-and-profit-cb9962760556?gi=a77c8b4efba3)  
+
+[Primer on Python Decorators](https://realpython.com/primer-on-python-decorators/)  
 
 
 
