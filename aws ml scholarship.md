@@ -80,7 +80,7 @@ Wikipedia articles on [Gaussian Distribution](https://en.wikipedia.org/wiki/Norm
 
 [PyPi](https://pypi.org/) - a repository of software for the python programming language  
 
-[]()  
+[Installing packages using pip and virtual environments](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)  
 
 
 
