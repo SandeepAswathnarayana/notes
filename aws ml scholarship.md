@@ -33,3 +33,11 @@
 [Guidelines for code reviews](https://github.com/lyst/MakingLyst/tree/master/code-reviews)  
 
 [Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html)  
+
+## Docstrings  
+
+[PEP 257 -- Docstring Conventions](https://www.python.org/dev/peps/pep-0257/)  
+
+[numpydoc docstring guide](https://numpydoc.readthedocs.io/en/latest/format.html)  
+
+
