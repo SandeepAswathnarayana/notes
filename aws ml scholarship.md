@@ -62,7 +62,7 @@ This free Udacity course, [Intro to Statistics](https://www.udacity.com/course/i
 
 This free course, [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827), also has a Gaussian distributions lesson  
 
-
+Wikipedia articles on [Gaussian Distribution](https://en.wikipedia.org/wiki/Normal_distribution) and [Binomial Distribution](https://en.wikipedia.org/wiki/Binomial_distribution)  
 
 
 
