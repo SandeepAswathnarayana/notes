@@ -42,6 +42,8 @@
 
 ## README Examples  
 
+Udacity's [Writing READMEs](https://classroom.udacity.com/courses/ud777)  
+
 [Bootstrap](https://github.com/twbs/bootstrap)  
 
 [Scikit-learn](https://github.com/scikit-learn/scikit-learn) 
