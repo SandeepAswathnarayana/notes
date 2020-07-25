@@ -1,5 +1,7 @@
 ## Git Version Control  
 
+[Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)  
+
 [A successful git branching model](https://nvie.com/posts/a-successful-git-branching-model/)  
 
 [About merge conflicts](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts)  
