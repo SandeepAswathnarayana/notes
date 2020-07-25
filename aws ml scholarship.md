@@ -56,7 +56,9 @@ Udacity's [Writing READMEs](https://classroom.udacity.com/courses/ud777)
 
 [Properties vs. Getters and Setters](https://www.python-course.eu/python3_properties.php)  
 
+[Example Google Style Python Docstrings](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html)  
 
+[]()
 
 
 
