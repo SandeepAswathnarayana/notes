@@ -78,8 +78,9 @@ Wikipedia articles on [Gaussian Distribution](https://en.wikipedia.org/wiki/Norm
 
 [pip - The Python Package Installer](https://pip.pypa.io/en/stable/)  
 
-[]()  
+[PyPi](https://pypi.org/) - a repository of software for the python programming language  
 
+[]()  
 
 
 
