@@ -58,7 +58,15 @@ Udacity's [Writing READMEs](https://classroom.udacity.com/courses/ud777)
 
 [Example Google Style Python Docstrings](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html)  
 
-[]()
+This free Udacity course, [Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101), has a lesson on Gaussian distributions as well as the Binomial distribution  
+
+This free course, [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827), also has a Gaussian distributions lesson  
+
+
+
+
+
+
 
 
 
