@@ -90,6 +90,14 @@ Wikipedia articles on [Gaussian Distribution](https://en.wikipedia.org/wiki/Norm
 
 [Mixins and Multiple Inheritance](https://easyaspython.com/mixins-for-fun-and-profit-cb9962760556)  
 
+[PyPi](https://pypi.org/)  
+
+[Test PyPi](https://test.pypi.org/)  
+
+[Packaging Python Projects](https://packaging.python.org/tutorials/packaging-projects/)  
+
+
+
 
 
 
