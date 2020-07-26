@@ -82,6 +82,26 @@ Wikipedia articles on [Gaussian Distribution](https://en.wikipedia.org/wiki/Norm
 
 [Installing packages using pip and virtual environments](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)  
 
+[The beginner's guide to contributing to a GitHub project](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/)  
+
+[Contributing to a GitHub project](https://github.com/MarcDiethelm/contributing/blob/master/README.md)  
+
+[Primer on Python Decorators](https://realpython.com/primer-on-python-decorators/)  
+
+[Mixins and Multiple Inheritance](https://easyaspython.com/mixins-for-fun-and-profit-cb9962760556)  
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
