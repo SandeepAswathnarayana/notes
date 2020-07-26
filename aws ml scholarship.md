@@ -96,7 +96,15 @@ Wikipedia articles on [Gaussian Distribution](https://en.wikipedia.org/wiki/Norm
 
 [Packaging Python Projects](https://packaging.python.org/tutorials/packaging-projects/)  
 
+## Machine Learning with AWS DeepComposer  
 
+[Create compositions using sample models in music studio](https://console.aws.amazon.com/deepcomposer/home?region=us-east-1#musicStudio)  
+
+[Inspect the training of existing sample models](https://console.aws.amazon.com/deepcomposer/home?region=us-east-1#modelList)  
+
+[Train your own model within the AWS DeepComposer console](https://console.aws.amazon.com/deepcomposer/home?region=us-east-1#trainModel)  
+
+[Build your own GAN model](https://github.com/aws-samples/aws-deepcomposer-samples)  
 
 
 
