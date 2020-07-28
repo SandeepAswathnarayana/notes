@@ -1,3 +1,13 @@
+## People  
+
+[Sarah Maris](https://www.linkedin.com/in/sarahmaris/)  
+[Rahul Suresh](https://www.linkedin.com/in/rahulsuresh/)  
+Michael Perry  
+[Brenda Law](https://www.linkedin.com/in/brendalaw/)  
+[Jyothi Nookula](https://www.linkedin.com/in/jyothinookula/)  
+Viji Hari  
+
+
 ## Prerequisites or Recommended Courses  
 
 [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)  
