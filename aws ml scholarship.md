@@ -5,6 +5,7 @@
 [Michael Berry](https://www.linkedin.com/in/michael-berry-458159130/)  
 [Brenda Law](https://www.linkedin.com/in/brendalaw/)  
 [Jyothi Nookula](https://www.linkedin.com/in/jyothinookula/)  
+[Grace Cho](https://www.linkedin.com/in/grace-eun-cho/)  
 [Viji Hari](https://www.linkedin.com/in/viji-hari/)  
 
 
