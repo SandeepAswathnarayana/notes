@@ -2,10 +2,10 @@
 
 [Sarah Maris](https://www.linkedin.com/in/sarahmaris/)  
 [Rahul Suresh](https://www.linkedin.com/in/rahulsuresh/)  
-Michael Perry  
+[Michael Berry](https://www.linkedin.com/in/michael-berry-458159130/)  
 [Brenda Law](https://www.linkedin.com/in/brendalaw/)  
 [Jyothi Nookula](https://www.linkedin.com/in/jyothinookula/)  
-Viji Hari  
+[Viji Hari](https://www.linkedin.com/in/viji-hari/)  
 
 
 ## Prerequisites or Recommended Courses  
