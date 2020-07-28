@@ -1,3 +1,13 @@
+## Prerequisites or Recommended Courses  
+
+[Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)  
+
+[Introduction to Machine Learning Course](https://www.udacity.com/course/intro-to-machine-learning--ud120)  
+
+[Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)  
+
+
+
 ## Git Version Control  
 
 [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)  
