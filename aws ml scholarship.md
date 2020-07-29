@@ -1,7 +1,7 @@
 ## People  
 
 [Sarah Maris](https://www.linkedin.com/in/sarahmaris/)  
-[Rahul Suresh](https://www.linkedin.com/in/rahulsuresh/)  
+[Rahul Suresh](https://www.linkedin.com/in/rahulsuresh/) - surerahu@amazon.com  
 [Michael Berry](https://www.linkedin.com/in/michael-berry-458159130/)  
 [Brenda Law](https://www.linkedin.com/in/brendalaw/)  
 [Jyothi Nookula](https://www.linkedin.com/in/jyothinookula/)  
